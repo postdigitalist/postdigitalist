@@ -1,8 +1,6 @@
 # Hi there! 👋
 
 I'm Aaron Marco Arias, creative director at Postdigitalist.
-I collaborate with wonderful people to make beautiful and useful things.
-Other interests include tennis, films,  and fashion. 
 
 ## See More
 - [Studio](http://postdigitalist.xyz)
